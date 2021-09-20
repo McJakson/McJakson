@@ -1,0 +1,5 @@
+- 👋 Hi, I’m David THOMAS
+- 👀 I’m interested in web development (API, library and front-end)
+- 🌱 I’m currently in apprenticeship in Orange Group
+- 💞️ I’m looking to collaborate on Discord bot
+- 📫 You can reach me with my pyblic email address (go check on my profile)
